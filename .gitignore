@@ -1,0 +1,7 @@
+# WorkBuddy project data (local tooling state, not part of the game)
+.workbuddy-ai/
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
